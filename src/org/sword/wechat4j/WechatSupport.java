@@ -57,7 +57,7 @@ public abstract class WechatSupport {
 	}
 
 	/**
-	 * wechat调用入口，进行数据接收，事件分发
+	 * wechat调用入口，进行数据接收，事件分发 test
 	 * @return
 	 */
 	public String execute(){
